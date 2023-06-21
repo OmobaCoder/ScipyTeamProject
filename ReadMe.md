@@ -10,10 +10,10 @@ Music therapy, or MT, is using music to improve an individual's stress, mood, an
 The aim of studying the therapeutic effects of music on mental health is to investigate and understand how music can be used as a therapeutic tool to promote psychological well-being, alleviate symptoms of mental disorders, and enhance overall mental health.
 
 ## Data Sourcing
-In other to carry out this prediction we had to utilize open-source data which was gotten from [Kaggle](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
+In order to carry out this prediction, we had to utilize open-source data, which was gotten from [Kaggle](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
 
 ##  Brief Description of The Dataset
-The dataset contains 736 records and 33 features.
+The dataset contains 736 records and 33 features. During the EDA phase, we discovered 8 features have missing values. However, there are no duplicate values in the data.
 
 - Age: The age of the respondent
 - Primary streaming service: The streaming service platform the respondent primarily uses for listening to music.
